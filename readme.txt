@@ -1,2 +1,2 @@
 Creating a new branch is quick.
-change name.
+creating a new branch is quick AND simple.
